@@ -17,6 +17,6 @@ Curso realizado durante o segundo semestre do curso de Ciência da Computação,
 - Grafos: conceito, representação por matrizes e listas ligadas, percursos em largura e profundidade.
 - Outras estruturas: Matrizes esparsas, Trie
 
-  # Bibliografia:
-  - B. Kernighan e D. Ritchie. The C Programming Language, 1988.
-  - W. Celes, R. Cerqueira, J. L. Rangel. Introdução a Estruturas de Dados. Campus, 2016.
+# Bibliografia:
+- B. Kernighan e D. Ritchie. The C Programming Language, 1988.
+- W. Celes, R. Cerqueira, J. L. Rangel. Introdução a Estruturas de Dados. Campus, 2016.
